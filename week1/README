@@ -1,0 +1,8 @@
+Fine-grained ASLR:
+    ASLP [ACSAC'06]
+    ILR [Oakland'12]
+    Binary Stirring [CCS'12]
+    Gadget Juggling [AsiaCCS'16]
+
+Attack:
+    JIT-ROP [Oakland'13]

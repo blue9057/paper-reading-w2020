@@ -1,0 +1,23 @@
+Execute-only Memory (XoM)
+    Readactor [Oakland'15]
+
+Attack: Blind-ROP
+    BlindROP [Oakland'14]
+
+Re-randomization
+    TASR [CCS'15]
+    Shuffler [OSDI'16]
+    CodeArmor [Euro S&P'17]
+
+Hardware-based Re-randomization
+    Morpheus [ASPLOS'19]
+
+
+Optional:
+
+A better fine-ASLR
+    Oxymoron [Security'14]
+    Isomeron [NDSS'15]
+
+Enhancement of Readactor for supporting C++ and GOT
+    Readactor++ [CCS '15]

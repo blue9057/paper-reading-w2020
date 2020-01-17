@@ -1,0 +1,21 @@
+CFI
+    Original CFI
+    BinCFI
+    Compiler-based CFI (IFCC)
+
+CPI
+
+Advanced-CFI
+    CCFI (Cryptographical)
+    PiCFI
+    uCFI
+
+
+Attacks to CFI
+    COOP
+    CFB
+    Newton
+
+Attacks to CPI
+    Poking Holes
+    Breaking IH
